@@ -34,8 +34,8 @@ Pull-Requests welcome.
 | FCL | The .NET Framework Class library |
 | [F#](http://fsharp.org/) | F# is a mature, open source, cross-platform, functional-first programming language |
 | [NuGet](https://www.nuget.org/) | The package manager for the Microsoft development platform, including .NET |
-| [OmniSharp](http://www.omnisharp.net/) | Cross-platform development tools that can be plugged into several editors.
-| [Project Rider](https://blog.jetbrains.com/dotnet/2016/01/13/project-rider-a-csharp-ide/) | A cross-platform IDE from [JetBrains](https://www.jetbrains.com/).
+| [OmniSharp](http://www.omnisharp.net/) | Cross-platform development tools that can be plugged into several editors. |
+| [Project Rider](https://blog.jetbrains.com/dotnet/2016/01/13/project-rider-a-csharp-ide/) | A cross-platform IDE from [JetBrains](https://www.jetbrains.com/). |
 | [Reference Source](http://referencesource.microsoft.com/) | Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework, published under an MIT license |
 | [Roslyn](https://github.com/dotnet/roslyn) | The codename of the .NET Compiler Platform |
 | [RyuJIT](http://blogs.msdn.com/b/dotnet/archive/2013/09/30/ryujit-the-next-generation-jit-compiler.aspx) | The .NET teams new 64-bit, Just-In-Time compiler |
