@@ -27,6 +27,7 @@ Pull-Requests welcome.
 | [CLR](https://msdn.microsoft.com/en-us/library/8bs2ecf4(v=vs.110).aspx) | The Common Language Runtime for the .NET Framework |
 | [DNX](https://github.com/aspnet/dnx) | The DNX (a .NET Execution Environment) contains the code required to bootstrap and run an application, including the compilation system, SDK tools, and the native CLR hosts. |
 | [dnvm](https://github.com/aspnet/dnvm) | The .NET version manager, a set of command line utilities to update and configure what .NET runtime to use|
+| [dnu](https://github.com/aspnet/Home/wiki/DNX-utility) | The DNX Utility (dnu) tool is responsible for all operations involved with packages in your application. |
 | [Entity Framework](https://msdn.microsoft.com/en-us/data/ef.aspx) | Entity Framework is Microsoft's recommended data access technology for new applications |
 | [EF Core](https://www.nuget.org/packages/EntityFramework.Core/) | Entity Framework Core is the .NET Core compatible version of Entity Framework |
 | Entity Framework 7 | The former name for EF Core |
