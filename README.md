@@ -25,6 +25,7 @@ Pull-Requests welcome.
 | [dnvm](https://github.com/aspnet/dnvm) | The .NET version manager, a set of command line utilities to update and configure what .NET runtime to use|
 | [Entity Framework](https://msdn.microsoft.com/en-us/data/ef.aspx) | Entity Framework is Microsoft's recommended data access technology for new applications |
 | [EF Core](https://www.nuget.org/packages/EntityFramework.Core/) | Entity Framework Core is the .NET Core compatible version of Entity Framework |
+| [Entity Framework 7]() | The former name for EF Core |
 | [F#](http://fsharp.org/) | F# is a mature, open source, cross-platform, functional-first programming language |
 | [NuGet](https://www.nuget.org/) | The package manager for the Microsoft development platform, including .NET |
 | [Roslyn](https://github.com/dotnet/roslyn) | The codename of the .NET Compiler Platform |
