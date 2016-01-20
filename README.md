@@ -12,6 +12,7 @@ Pull-Requests welcome.
 | [.NET Runtime]() | A pseudonym for CLR |
 | [ASP](https://msdn.microsoft.com/en-us/library/aa286483.aspx) | Active Server Pages, a server-side scripting environment. | 
 | [ASP.NET](http://www.asp.net/) | A open-source Windows-based free web framework |
+| [ASP.NET Web API](http://www.asp.net/web-api) | A framework for building HTTP services, commonly used to build RESTful applications on the .NET Framework |
 | [Core FX](https://github.com/dotnet/corefx) | The open source version of the .NET Base class library |
 | [Core CLR](https://github.com/dotnet/coreclr) | The open source, cross-platform runtime |
 | [Core RT](https://github.com/dotnet/corert) | The runtime used by the natively compiled version of .NET |
@@ -21,6 +22,7 @@ Pull-Requests welcome.
 | [DNX](https://github.com/aspnet/dnx) | The DNX (a .NET Execution Environment) contains the code required to bootstrap and run an application, including the compilation system, SDK tools, and the native CLR hosts. |
 | [dnvm](https://github.com/aspnet/dnvm) | The .NET version manager, a set of command line utilities to update and configure what .NET runtime to use|
 | [F#](http://fsharp.org/) | F# is a mature, open source, cross-platform, functional-first programming language |
+| [NuGet](https://www.nuget.org/) | The package manager for the Microsoft development platform, including .NET |
 | [Roslyn](https://github.com/dotnet/roslyn) | The codename of the .NET Compiler Platform |
 | [TypeScript](http://www.typescriptlang.org/) | A JavaScript-like language with types that can transpile to JavaScript. |
 | [Visual Studio](https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx) | A complete development environment for Microsoft Windows. Includes support for iOS and Android development |
@@ -28,4 +30,5 @@ Pull-Requests welcome.
 | [Visual Studio Community Edition](https://www.visualstudio.com/products/visual-studio-community-vs) | Visual Studio, but without the “Enterprise” bits |
 | [Visual Studio Online]() | The previous term for Visual Studio Team Services |
 | [Visual Studio Team Services](https://www.visualstudio.com/en-us/products/visual-studio-team-services-vs.aspx) | Services for teams to work together, such as version control, work item management and continuous integration. |
+
 
