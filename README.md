@@ -7,11 +7,16 @@ Pull-Requests welcome.
 | [.NET](https://www.microsoft.com/net)      | An umbrella term covering everything .NET related.  |
 | [.NET Framework](https://msdn.microsoft.com/en-us/vstudio/aa496123.aspx)      | NET is a general purpose development platform |
 | [.NET Core](https://dotnet.github.io/) | An open-source, cross-platform runtime, library and compiler |
+| [.NET Core CLI](https://github.com/dotnet/cli) | The .NET command line interface for building and deploying cross-platform applications |
 | [.NET Native](https://msdn.microsoft.com/en-us/vstudio/dotnetnative.aspx) | Compiles C# to native machine code to run on Windows 10 | 
 | [.NET Runtime]() | A pseudonym for CLR |
 | [ASP](https://msdn.microsoft.com/en-us/library/aa286483.aspx) | Active Server Pages, a server-side scripting environment. | 
 | [ASP.NET](http://www.asp.net/) | A open-source Windows-based free web framework |
+| [Core FX](https://github.com/dotnet/corefx) | The open source version of the .NET Base class library |
+| [Core CLR](https://github.com/dotnet/coreclr) | The open source, cross-platform runtime |
+| [Core RT](https://github.com/dotnet/corert) | The runtime used by the natively compiled version of .NET |
 | [C#](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx) | A multi-paradigm language for developing on .NET Core and .NET Framework. |
+| [CLI](https://en.wikipedia.org/wiki/Common_Language_Infrastructure) | Command Language Infrastructure - the ECMA/ISO standard for the .NET type system, metadata, common language specification and virtual execution system | 
 | [CLR](https://msdn.microsoft.com/en-us/library/8bs2ecf4(v=vs.110).aspx) | The Common Language Runtime for the .NET Framework |
 | [DNX](https://github.com/aspnet/dnx) | The DNX (a .NET Execution Environment) contains the code required to bootstrap and run an application, including the compilation system, SDK tools, and the native CLR hosts. |
 | [dnvm](https://github.com/aspnet/dnvm) | The .NET version manager, a set of command line utilities to update and configure what .NET runtime to use|
