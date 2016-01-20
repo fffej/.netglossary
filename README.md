@@ -12,7 +12,9 @@ Pull-Requests welcome.
 | [.NET Runtime]() | A pseudonym for CLR |
 | [ASP](https://msdn.microsoft.com/en-us/library/aa286483.aspx) | Active Server Pages, a server-side scripting environment. | 
 | [ASP.NET](http://www.asp.net/) | A open-source Windows-based free web framework |
+| [ASP.NET MVC](http://www.asp.net/mvc) | A patterns-based way to build model-view-controller applications |
 | [ASP.NET Web API](http://www.asp.net/web-api) | A framework for building HTTP services, commonly used to build RESTful applications on the .NET Framework |
+| [ASP.NET Web Forms](http://www.asp.net/web-forms) | Lets you build dynamic websites with a drag-and-drop, event-driven model |
 | [Core FX](https://github.com/dotnet/corefx) | The open source version of the .NET Base class library |
 | [Core CLR](https://github.com/dotnet/coreclr) | The open source, cross-platform runtime |
 | [Core RT](https://github.com/dotnet/corert) | The runtime used by the natively compiled version of .NET |
@@ -21,6 +23,8 @@ Pull-Requests welcome.
 | [CLR](https://msdn.microsoft.com/en-us/library/8bs2ecf4(v=vs.110).aspx) | The Common Language Runtime for the .NET Framework |
 | [DNX](https://github.com/aspnet/dnx) | The DNX (a .NET Execution Environment) contains the code required to bootstrap and run an application, including the compilation system, SDK tools, and the native CLR hosts. |
 | [dnvm](https://github.com/aspnet/dnvm) | The .NET version manager, a set of command line utilities to update and configure what .NET runtime to use|
+| [Entity Framework](https://msdn.microsoft.com/en-us/data/ef.aspx) | Entity Framework is Microsoft's recommended data access technology for new applications |
+| [EF Core](https://www.nuget.org/packages/EntityFramework.Core/) | Entity Framework Core is the .NET Core compatible version of Entity Framework |
 | [F#](http://fsharp.org/) | F# is a mature, open source, cross-platform, functional-first programming language |
 | [NuGet](https://www.nuget.org/) | The package manager for the Microsoft development platform, including .NET |
 | [Roslyn](https://github.com/dotnet/roslyn) | The codename of the .NET Compiler Platform |
