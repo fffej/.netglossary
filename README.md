@@ -16,7 +16,7 @@ Pull-Requests welcome.
 | [ASP.NET MVC](http://www.asp.net/mvc) | A patterns-based way to build model-view-controller applications |
 | [ASP.NET Web API](http://www.asp.net/web-api) | A framework for building HTTP services, commonly used to build RESTful applications on the .NET Framework |
 | [ASP.NET Web Forms](http://www.asp.net/web-forms) | Lets you build dynamic websites with a drag-and-drop, event-driven model |
-| BCL | Base Class library, but primarily known as .NET Framework Class libraries
+| BCL | Base Class library, a subset of .NET Framework Class libraries representing basic, fundamental types like `String` and `DateTime` |
 | [Core FX](https://github.com/dotnet/corefx) | The open source version of the .NET Base class library |
 | [Core CLR](https://github.com/dotnet/coreclr) | The open source, cross-platform runtime |
 | [Core RT](https://github.com/dotnet/corert) | The runtime used by the natively compiled version of .NET |
@@ -28,6 +28,7 @@ Pull-Requests welcome.
 | [Entity Framework](https://msdn.microsoft.com/en-us/data/ef.aspx) | Entity Framework is Microsoft's recommended data access technology for new applications |
 | [EF Core](https://www.nuget.org/packages/EntityFramework.Core/) | Entity Framework Core is the .NET Core compatible version of Entity Framework |
 | Entity Framework 7 | The former name for EF Core |
+| FCL | The .NET Framework Class library |
 | [F#](http://fsharp.org/) | F# is a mature, open source, cross-platform, functional-first programming language |
 | [NuGet](https://www.nuget.org/) | The package manager for the Microsoft development platform, including .NET |
 | [Roslyn](https://github.com/dotnet/roslyn) | The codename of the .NET Compiler Platform |
