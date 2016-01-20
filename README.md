@@ -1,7 +1,7 @@
 .NET has so many different terms for things so I thought I would create a definite list of 
 
 | Term        | Meaning           |
-| ------------- |:-------------:|
+| ------------- |:-------------|
 | .NET      | An umbrella term covering everything .NET related.  |
 | .NET Framework      | NET is a general purpose development platform |
 | .NET Core | An open-source, cross-platform runtime, library and compiler |
