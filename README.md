@@ -13,7 +13,9 @@ Pull-Requests welcome.
 | .NET Runtime | A pseudonym for CLR |
 | [ASP](https://msdn.microsoft.com/en-us/library/aa286483.aspx) | Active Server Pages, a server-side scripting environment. | 
 | [ASP.NET](http://www.asp.net/) | A open-source Windows-based free web framework |
+| [ASP.NET Core](http://www.hanselman.com/blog/ASPNET5IsDeadIntroducingASPNETCore10AndNETCore10.aspx) | A brand new, cross-platform web framework
 | [ASP.NET MVC](http://www.asp.net/mvc) | A patterns-based way to build model-view-controller applications |
+| ASP.NET vNext | Former name of next version of ASP.NET, now known as ASP.NET Core |
 | [ASP.NET Web API](http://www.asp.net/web-api) | A framework for building HTTP services, commonly used to build RESTful applications on the .NET Framework |
 | [ASP.NET Web Forms](http://www.asp.net/web-forms) | Lets you build dynamic websites with a drag-and-drop, event-driven model |
 | BCL | Base Class library, a subset of .NET Framework Class libraries representing basic, fundamental types like `String` and `DateTime` |
