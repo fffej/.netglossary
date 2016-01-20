@@ -5,7 +5,7 @@ Pull-Requests welcome.
 | Term        | Meaning           |
 | ------------- |:-------------|
 | [.NET](https://www.microsoft.com/net)      | An umbrella term covering everything .NET related.  |
-| [.NET Framework](https://msdn.microsoft.com/en-us/vstudio/aa496123.aspx)      | NET is a general purpose development platform |
+| [.NET Framework](https://msdn.microsoft.com/en-us/vstudio/aa496123.aspx)      | .NET is a general purpose development platform |
 | [.NET Framework Class Library](https://msdn.microsoft.com/en-us/library/gg145045(v=vs.110).aspx) | The .NET Framework class library is a library of classes, interfaces, and value types that provide access to system functionality. It is the foundation on which .NET Framework applications, components, and controls are built. |
 | [.NET Core](https://dotnet.github.io/) | An open-source, cross-platform runtime, library and compiler |
 | [.NET Core CLI](https://github.com/dotnet/cli) | The .NET command line interface for building and deploying cross-platform applications |
@@ -23,7 +23,7 @@ Pull-Requests welcome.
 | [Core CLR](https://github.com/dotnet/coreclr) | The open source, cross-platform runtime |
 | [Core RT](https://github.com/dotnet/corert) | The runtime used by the natively compiled version of .NET |
 | [C#](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx) | A multi-paradigm language for developing on .NET Core and .NET Framework. |
-| [CLI](https://en.wikipedia.org/wiki/Common_Language_Infrastructure) | Command Language Infrastructure - the ECMA/ISO standard for the .NET type system, metadata, common language specification and virtual execution system | 
+| [CLI](https://en.wikipedia.org/wiki/Common_Language_Infrastructure) | Common Language Infrastructure - the ECMA/ISO standard for the .NET type system, metadata, common language specification and virtual execution system | 
 | [CLR](https://msdn.microsoft.com/en-us/library/8bs2ecf4(v=vs.110).aspx) | The Common Language Runtime for the .NET Framework |
 | [DNX](https://github.com/aspnet/dnx) | The DNX (a .NET Execution Environment) contains the code required to bootstrap and run an application, including the compilation system, SDK tools, and the native CLR hosts. |
 | [dnvm](https://github.com/aspnet/dnvm) | The .NET version manager, a set of command line utilities to update and configure what .NET runtime to use|
