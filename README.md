@@ -34,6 +34,7 @@ Pull-Requests welcome.
 | [F#](http://fsharp.org/) | F# is a mature, open source, cross-platform, functional-first programming language |
 | [NuGet](https://www.nuget.org/) | The package manager for the Microsoft development platform, including .NET |
 | [Roslyn](https://github.com/dotnet/roslyn) | The codename of the .NET Compiler Platform |
+| [RyuJIT](http://blogs.msdn.com/b/dotnet/archive/2013/09/30/ryujit-the-next-generation-jit-compiler.aspx) | The .NET teams new 64-bit, Just-In-Time compiler |
 | [TypeScript](http://www.typescriptlang.org/) | A JavaScript-like language with types that can transpile to JavaScript. |
 | [Visual Studio](https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx) | A complete development environment for Microsoft Windows. Includes support for iOS and Android development |
 | [Visual Studio Code](https://code.visualstudio.com/) | A open-source cross-platform editor on steroids. |
