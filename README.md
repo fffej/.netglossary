@@ -34,6 +34,7 @@ Pull-Requests welcome.
 | FCL | The .NET Framework Class library |
 | [F#](http://fsharp.org/) | F# is a mature, open source, cross-platform, functional-first programming language |
 | [NuGet](https://www.nuget.org/) | The package manager for the Microsoft development platform, including .NET |
+| [Reference Source](http://referencesource.microsoft.com/) | Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework, published under an MIT license |
 | [Roslyn](https://github.com/dotnet/roslyn) | The codename of the .NET Compiler Platform |
 | [RyuJIT](http://blogs.msdn.com/b/dotnet/archive/2013/09/30/ryujit-the-next-generation-jit-compiler.aspx) | The .NET teams new 64-bit, Just-In-Time compiler |
 | [TypeScript](http://www.typescriptlang.org/) | A JavaScript-like language with types that can transpile to JavaScript. |
