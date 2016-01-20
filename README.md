@@ -6,6 +6,7 @@ Pull-Requests welcome.
 | ------------- |:-------------|
 | [.NET](https://www.microsoft.com/net)      | An umbrella term covering everything .NET related.  |
 | [.NET Framework](https://msdn.microsoft.com/en-us/vstudio/aa496123.aspx)      | NET is a general purpose development platform |
+| [.NET Framework Class Library](https://msdn.microsoft.com/en-us/library/gg145045(v=vs.110).aspx) | The .NET Framework class library is a library of classes, interfaces, and value types that provide access to system functionality. It is the foundation on which .NET Framework applications, components, and controls are built. |
 | [.NET Core](https://dotnet.github.io/) | An open-source, cross-platform runtime, library and compiler |
 | [.NET Core CLI](https://github.com/dotnet/cli) | The .NET command line interface for building and deploying cross-platform applications |
 | [.NET Native](https://msdn.microsoft.com/en-us/vstudio/dotnetnative.aspx) | Compiles C# to native machine code to run on Windows 10 | 
@@ -15,6 +16,7 @@ Pull-Requests welcome.
 | [ASP.NET MVC](http://www.asp.net/mvc) | A patterns-based way to build model-view-controller applications |
 | [ASP.NET Web API](http://www.asp.net/web-api) | A framework for building HTTP services, commonly used to build RESTful applications on the .NET Framework |
 | [ASP.NET Web Forms](http://www.asp.net/web-forms) | Lets you build dynamic websites with a drag-and-drop, event-driven model |
+| BCL | Base Class library, but primarily known as .NET Framework Class libraries
 | [Core FX](https://github.com/dotnet/corefx) | The open source version of the .NET Base class library |
 | [Core CLR](https://github.com/dotnet/coreclr) | The open source, cross-platform runtime |
 | [Core RT](https://github.com/dotnet/corert) | The runtime used by the natively compiled version of .NET |
