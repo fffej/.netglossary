@@ -19,7 +19,6 @@ Pull-Requests welcome.
 | [ASP.NET Web API](http://www.asp.net/web-api) | A framework for building HTTP services, commonly used to build RESTful applications on the .NET Framework |
 | [ASP.NET Web Forms](http://www.asp.net/web-forms) | Lets you build dynamic websites with a drag-and-drop, event-driven model |
 | BCL | Base Class library, a subset of .NET Framework Class libraries representing basic, fundamental types like `String` and `DateTime` |
-| [TPL](https://msdn.microsoft.com/en-us/library/dd537609%28v=vs.110%29.aspx) | Task Parallel Library
 | [Core FX](https://github.com/dotnet/corefx) | The open source version of the .NET Base class library |
 | [Core CLR](https://github.com/dotnet/coreclr) | The open source, cross-platform runtime |
 | [Core RT](https://github.com/dotnet/corert) | The runtime used by the natively compiled version of .NET |
@@ -42,6 +41,7 @@ Pull-Requests welcome.
 | [Reference Source](http://referencesource.microsoft.com/) | Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework, published under an MIT license |
 | [Roslyn](https://github.com/dotnet/roslyn) | The codename of the .NET Compiler Platform |
 | [RyuJIT](http://blogs.msdn.com/b/dotnet/archive/2013/09/30/ryujit-the-next-generation-jit-compiler.aspx) | The .NET teams new 64-bit, Just-In-Time compiler |
+| [TPL](https://msdn.microsoft.com/en-us/library/dd537609%28v=vs.110%29.aspx) | Task Parallel Library |
 | [TypeScript](http://www.typescriptlang.org/) | A JavaScript-like language with types that can transpile to JavaScript. |
 | [Visual Studio](https://www.visualstudio.com/en-us/visual-studio-homepage-vs.aspx) | A complete development environment for Microsoft Windows. Includes support for iOS and Android development |
 | [Visual Studio Code](https://code.visualstudio.com/) | A open-source cross-platform editor on steroids. |
