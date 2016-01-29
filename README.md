@@ -33,6 +33,7 @@ Pull-Requests welcome.
 | Entity Framework 7 | The former name for EF Core |
 | FCL | The .NET Framework Class library |
 | [F#](http://fsharp.org/) | F# is a mature, open source, cross-platform, functional-first programming language |
+| [LINQ]() | LINQ (Language-Integrated Query) is a set of features introduced in VS 2008 for querying and updating data |
 | [NuGet](https://www.nuget.org/) | The package manager for the Microsoft development platform, including .NET |
 | [OmniSharp](http://www.omnisharp.net/) | Cross-platform development tools that can be plugged into several editors. |
 | [Project Rider](https://blog.jetbrains.com/dotnet/2016/01/13/project-rider-a-csharp-ide/) | A cross-platform IDE from [JetBrains](https://www.jetbrains.com/). |
