@@ -19,6 +19,7 @@ Pull-Requests welcome.
 | [ASP.NET Web API](http://www.asp.net/web-api) | A framework for building HTTP services, commonly used to build RESTful applications on the .NET Framework |
 | [ASP.NET Web Forms](http://www.asp.net/web-forms) | Lets you build dynamic websites with a drag-and-drop, event-driven model |
 | BCL | Base Class library, a subset of .NET Framework Class libraries representing basic, fundamental types like `String` and `DateTime` |
+| [TPL](https://msdn.microsoft.com/en-us/library/dd537609%28v=vs.110%29.aspx) | Task Parallel Library
 | [Core FX](https://github.com/dotnet/corefx) | The open source version of the .NET Base class library |
 | [Core CLR](https://github.com/dotnet/coreclr) | The open source, cross-platform runtime |
 | [Core RT](https://github.com/dotnet/corert) | The runtime used by the natively compiled version of .NET |
@@ -34,6 +35,7 @@ Pull-Requests welcome.
 | FCL | The .NET Framework Class library |
 | [F#](http://fsharp.org/) | F# is a mature, open source, cross-platform, functional-first programming language |
 | [LINQ]() | LINQ (Language-Integrated Query) is a set of features introduced in VS 2008 for querying and updating data |
+| [PLINQ](https://msdn.microsoft.com/en-us/library/dd460688%28v=vs.110%29.aspx) | A parallel implementation of LINQ to Objects|
 | [NuGet](https://www.nuget.org/) | The package manager for the Microsoft development platform, including .NET |
 | [OmniSharp](http://www.omnisharp.net/) | Cross-platform development tools that can be plugged into several editors. |
 | [Project Rider](https://blog.jetbrains.com/dotnet/2016/01/13/project-rider-a-csharp-ide/) | A cross-platform IDE from [JetBrains](https://www.jetbrains.com/). |
