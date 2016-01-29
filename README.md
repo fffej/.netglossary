@@ -18,6 +18,7 @@ Pull-Requests welcome.
 | ASP.NET vNext | Former name of next version of ASP.NET, now known as ASP.NET Core |
 | [ASP.NET Web API](http://www.asp.net/web-api) | A framework for building HTTP services, commonly used to build RESTful applications on the .NET Framework |
 | [ASP.NET Web Forms](http://www.asp.net/web-forms) | Lets you build dynamic websites with a drag-and-drop, event-driven model |
+| [WCF](https://msdn.microsoft.com/en-us/library/ms731082%28v=vs.110%29.aspx) | Windows Communication Foundation, a framework for building service-oriented applications|
 | BCL | Base Class library, a subset of .NET Framework Class libraries representing basic, fundamental types like `String` and `DateTime` |
 | [TPL](https://msdn.microsoft.com/en-us/library/dd537609%28v=vs.110%29.aspx) | Task Parallel Library
 | [Core FX](https://github.com/dotnet/corefx) | The open source version of the .NET Base class library |
@@ -26,6 +27,7 @@ Pull-Requests welcome.
 | [C#](https://msdn.microsoft.com/en-us/library/67ef8sbd.aspx) | A multi-paradigm language for developing on .NET Core and .NET Framework. |
 | [CLI](https://en.wikipedia.org/wiki/Common_Language_Infrastructure) | Common Language Infrastructure - the ECMA/ISO standard for the .NET type system, metadata, common language specification and virtual execution system | 
 | [CLR](https://msdn.microsoft.com/en-us/library/8bs2ecf4(v=vs.110).aspx) | The Common Language Runtime for the .NET Framework |
+| [DLR](https://msdn.microsoft.com/en-us/library/dd233052%28v=vs.110%29.aspx) | Dynamic Language Runtime | 
 | [DNX](https://github.com/aspnet/dnx) | The DNX (a .NET Execution Environment) contains the code required to bootstrap and run an application, including the compilation system, SDK tools, and the native CLR hosts. |
 | [dnvm](https://github.com/aspnet/dnvm) | The .NET version manager, a set of command line utilities to update and configure what .NET runtime to use|
 | [dnu](https://github.com/aspnet/Home/wiki/DNX-utility) | The DNX Utility (dnu) tool is responsible for all operations involved with packages in your application. |
