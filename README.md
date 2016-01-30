@@ -18,7 +18,6 @@ Pull-Requests welcome.
 | ASP.NET vNext | Former name of next version of ASP.NET, now known as ASP.NET Core |
 | [ASP.NET Web API](http://www.asp.net/web-api) | A framework for building HTTP services, commonly used to build RESTful applications on the .NET Framework |
 | [ASP.NET Web Forms](http://www.asp.net/web-forms) | Lets you build dynamic websites with a drag-and-drop, event-driven model |
-| [WCF](https://msdn.microsoft.com/en-us/library/ms731082%28v=vs.110%29.aspx) | Windows Communication Foundation, a framework for building service-oriented applications|
 | BCL | Base Class library, a subset of .NET Framework Class libraries representing basic, fundamental types like `String` and `DateTime` |
 | [Core FX](https://github.com/dotnet/corefx) | The open source version of the .NET Base class library |
 | [Core CLR](https://github.com/dotnet/coreclr) | The open source, cross-platform runtime |
@@ -50,5 +49,5 @@ Pull-Requests welcome.
 | [Visual Studio Community Edition](https://www.visualstudio.com/products/visual-studio-community-vs) | Visual Studio, but without the “Enterprise” bits |
 | Visual Studio Online | The previous term for Visual Studio Team Services |
 | [Visual Studio Team Services](https://www.visualstudio.com/en-us/products/visual-studio-team-services-vs.aspx) | Services for teams to work together, such as version control, work item management and continuous integration. |
-
+| [WCF](https://msdn.microsoft.com/en-us/library/ms731082%28v=vs.110%29.aspx) | Windows Communication Foundation, a framework for building service-oriented applications|
 
